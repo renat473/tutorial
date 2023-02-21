@@ -1,4 +1,5 @@
 !/bin/bash
+#by renato santos
 whiptail --title "Instalação WPPConnect-Server" --msgbox "Aperte ENTER para iniciar a instalação do Wppconnect-Server com SSL" --fb 10 50
 sudo apt update -y
 sudo apt install -y curl
